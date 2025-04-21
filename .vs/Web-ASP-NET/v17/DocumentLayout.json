@@ -1,0 +1,1147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|c:\\users\\admin\\downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\product\\listtrash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\product\\listtrash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\product\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\product\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\product\\_listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\product\\_listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\order\\_orderdetailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\order\\_orderdetailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\migrations\\202504141344241_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\migrations\\202504141344241_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\home\\_searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\home\\_searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\home\\grid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\home\\grid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\home\\large.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\home\\large.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\content\\admin\\dist\\css\\adminlte.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\content\\admin\\dist\\css\\adminlte.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\content\\admin\\dist\\css\\adminlte.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\content\\admin\\dist\\css\\adminlte.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\account\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\account\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\content\\admin\\dist\\css\\adminlte.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\content\\admin\\dist\\css\\adminlte.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\user\\listuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\user\\listuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\user\\_listuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\user\\_listuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\context\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\context\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\context\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\context\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\context\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\context\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\context\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\context\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\models\\firebaseusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\models\\firebaseusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\brand\\_listbrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\brand\\_listbrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\category\\_listcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\category\\_listcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\order\\_listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\order\\_listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\order\\listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\order\\listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\category\\listcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\category\\listcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\brand\\listbrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\brand\\listbrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\web-asp-net\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CC83A9-0430-422A-8C39-53AF65FD6562}|Web-ASP-NET\\Web-ASP-NET.csproj|solutionrelative:web-asp-net\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T03:34:59.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T03:32:04.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Web-ASP-NET\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:31:18.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Web-ASP-NET\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:31:17.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Web-ASP-NET\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:31:13.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Web.config",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-21T03:28:24.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "adminlte.css.map",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.css.map",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.css.map",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.css.map",
+              "RelativeToolTip": "Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T03:27:17.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "adminlte.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.css",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.css",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.css",
+              "RelativeToolTip": "Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-21T03:27:10.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T03:23:19.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T03:23:13.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:22:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFYBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T12:36:39.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "adminlte.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.min.css.map",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.min.css.map",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.min.css.map",
+              "RelativeToolTip": "Web-ASP-NET\\Content\\admin\\dist\\css\\adminlte.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADI6AMAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T14:32:14.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:30:01.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Account\\Error.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Account\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Account\\Error.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Account\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:28:41.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:28:31.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_SearchResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\_SearchResults.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Home\\_SearchResults.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\_SearchResults.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Home\\_SearchResults.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:28:25.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:28:12.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:28:09.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_OrderDetailsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Order\\_OrderDetailsPartial.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Order\\_OrderDetailsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Order\\_OrderDetailsPartial.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Order\\_OrderDetailsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:28:02.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:27:55.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:27:48.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAIQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:10:31.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "202504141344241_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Migrations\\202504141344241_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Migrations\\202504141344241_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Migrations\\202504141344241_InitialCreate.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Migrations\\202504141344241_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:45:10.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:42:52.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Web.config",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Web.config",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Web.config",
+              "RelativeToolTip": "Web-ASP-NET\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-09T02:17:13.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvwsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:14:24.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:13:50.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:06:03.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T14:27:23.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEwCAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:09:27.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAYwO8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:29:06.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:38:20.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:27:05.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T03:21:10.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAADwv5kAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:26:20.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAADwvxcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:56:12.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T05:53:37.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\User.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Context\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\User.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Context\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:08:29.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\Product.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Context\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\Product.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Context\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:08:05.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Context\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\OrderDetail.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Context\\OrderDetail.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:07:46.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\Order.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Context\\Order.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\Order.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Context\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:07:25.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\Category.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Context\\Category.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\Category.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Context\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:07:06.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\Brand.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Context\\Brand.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Context\\Brand.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Context\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:06:45.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:03:57.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Models\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:03:54.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:03:52.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\HomeModel.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:03:50.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FirebaseUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\FirebaseUserModel.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Models\\FirebaseUserModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\FirebaseUserModel.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Models\\FirebaseUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:03:46.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Models\\CartModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Models\\CartModel.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Models\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:03:41.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:41:32.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T03:36:44.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAAAFUBAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T10:41:44.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ListCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:25:29.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ListProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:24:55.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAK0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:40:25.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Large.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\Large.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Home\\Large.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\Large.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Home\\Large.cshtml",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAAAAoBAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:40:26.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T16:23:34.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_ListBrand.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T16:21:14.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T16:23:31.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ListOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Order\\_ListOrder.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Order\\_ListOrder.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Order\\_ListOrder.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Order\\_ListOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T05:31:16.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ListUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T05:31:57.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ListUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T05:55:34.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ListOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAKBrwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T05:35:46.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ListCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:06:38.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ListBrand.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T12:16:19.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T16:17:38.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T16:23:32.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListTrash.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T16:23:36.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Grid.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\Grid.cshtml",
+              "RelativeDocumentMoniker": "Web-ASP-NET\\Views\\Home\\Grid.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\baibaocaowweb\\web\\Web-ASP-NET\\Views\\Home\\Grid.cshtml",
+              "RelativeToolTip": "Web-ASP-NET\\Views\\Home\\Grid.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowLYAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:31:14.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
